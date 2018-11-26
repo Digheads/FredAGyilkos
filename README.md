@@ -5,7 +5,7 @@ Az release menüpont alatt megtalálható az egyes platformoknak megfelelő kiad
 - Linux 64 bit - linux-x64
 - Windows 64 bit - win-x64
 	
-Az egyes kaidásokon belül a következo futtatható fájlokkal indul el a program:
+Az egyes kiadásokon belül a következo futtatható fájlokkal indul el a program:
 - OSX - FredAGyilkos (kiterjesztés nélkül)
 - Linux - FredAGyilkos (kiterjesztés nélkül, futtatás elott elképzelheto, hogy végrehajtási jogot engedélyezni kell!)
 - Windows - FredAGyilkos.exe
