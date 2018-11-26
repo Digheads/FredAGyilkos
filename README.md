@@ -3,7 +3,8 @@
 Egy gyilkossággal kapcsolatban az alábbiakat sikerült megállapítani:
 - Ha Joe nem találkozott akkor éjjel Freddel, akkor Fred a gyilkos vagy Joe hazudik.
 - Ha nem Fred a gyilkos, akkor Joe nem találkozott akkor éjjel Freddel, és a gyilkosság éjfél után történt.
-- Ha a gyilkosság éjfél után történt, akkor Fred a gyilkos vagy Joe hazudik.  
+- Ha a gyilkosság éjfél után történt, akkor Fred a gyilkos vagy Joe hazudik.
+
 A gyilkos után nyomozó felügyelő ezek alapján arra következtetett, hogy Fred a gyilkos.  
 **Helyesen tette-e?**
 
